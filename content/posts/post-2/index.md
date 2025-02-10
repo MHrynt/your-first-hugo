@@ -1,7 +1,7 @@
 ---
 title: "Getting Started with Hugo"
 date: 2025-02-10
-author: "Mariia Hryntus"
+author: "Maria Hryntus"
 tags: ["Hugo", "Static Sites", "Tech Writing"]
 ---
 

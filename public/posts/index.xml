@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on My New Hugo Site</title>
+    <link>http://localhost:1313/posts/</link>
+    <description>Recent content in Posts on My New Hugo Site</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 10 Feb 2025 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>First Hugo blog post</title>
+      <link>http://localhost:1313/posts/post-1/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/post-1/</guid>
+      <description>&lt;h1 id=&#34;welcome-to-our-sample-hugo-site&#34;&gt;Welcome to Our Sample Hugo Site!&lt;/h1&gt;&#xA;&lt;p&gt;This website has been created as part of a training exercise to demonstrate the capabilities of Hugo, a fast and flexible static site generator.&lt;/p&gt;&#xA;&lt;p&gt;The content you see here is purely for demonstration purposes, giving you a clear understanding of what a Hugo-powered website can look like. Feel free to explore and discover how Hugo makes website creation efficient and enjoyable.&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;Happy exploring!&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;p&gt;&lt;img src=&#34;sample-image.png&#34; alt=&#34;sample-image&#34;&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Another blog post</title>
+      <link>http://localhost:1313/posts/post-3/</link>
+      <pubDate>Mon, 10 Feb 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/post-3/</guid>
+      <description>&lt;h2 id=&#34;why-hugo-sites-matter&#34;&gt;Why Hugo sites matter?&lt;/h2&gt;&#xA;&lt;p&gt;Static sites are fast, secure, and easy to maintain, making them a great choice for blogs, documentation, and personal websites. Unlike dynamic sites, they don’t rely on databases, which improves performance and security.&lt;/p&gt;&#xA;&lt;p&gt;Using tools like Hugo, you can generate a full website in seconds and deploy it with minimal effort. Whether you&amp;rsquo;re a developer or a content creator, static sites offer a simple yet powerful way to share your work online.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Getting Started with Hugo</title>
+      <link>http://localhost:1313/posts/post-2/</link>
+      <pubDate>Mon, 10 Feb 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/post-2/</guid>
+      <description>&lt;p&gt;Hugo is a powerful static site generator that makes building and deploying websites quick and efficient. With its speed and flexibility, it’s a great choice for bloggers, technical writers, and developers alike.&lt;/p&gt;&#xA;&lt;p&gt;On this site , we cover the basics of setting up a Hugo site, creating content, and customizing your theme. Stay tuned for tips and best practices!&lt;/p&gt;&#xA;&lt;p&gt;&lt;img src=&#34;sample-image-2.png&#34; alt=&#34;sample-image-2&#34;&gt;&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

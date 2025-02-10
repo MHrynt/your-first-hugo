@@ -1,7 +1,7 @@
 {
 	"version": 3,
 	"file": "main.css",
-	"sourceRoot": "/Users/malva/Documents/REPOS/hugo-getting-started-hugo-test",
+	"sourceRoot": "/Users/mhrynt/your-first-hugo",
 	"sources": [
 		"ananke/css/main.css"
 	],
