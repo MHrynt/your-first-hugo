@@ -1,7 +1,4 @@
-# hugo-getting-started
-
-> **Note:** This is a copy of [Hugo Getting Started](https://github.com/MHrynt/hugo-getting-started) for [site](https://mauriceac.github.io/hugo-getting-started-hugo-test/) deployment testing.
-
+# your-first-hugo
 
 Welcome to this sample Hugo site! This is a starter template for building fast, customizable, and modern websites using Hugo, a powerful static site generator written in Go.
 
