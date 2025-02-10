@@ -9,18 +9,18 @@
     <lastBuildDate>Mon, 10 Feb 2025 00:00:00 +0000</lastBuildDate>
     <atom:link href="http://localhost:1313/tags/hugo/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Another blog post</title>
-      <link>http://localhost:1313/posts/post-3/</link>
-      <pubDate>Mon, 10 Feb 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/post-3/</guid>
-      <description>&lt;h2 id=&#34;why-hugo-sites-matter&#34;&gt;Why Hugo sites matter?&lt;/h2&gt;&#xA;&lt;p&gt;Static sites are fast, secure, and easy to maintain, making them a great choice for blogs, documentation, and personal websites. Unlike dynamic sites, they don’t rely on databases, which improves performance and security.&lt;/p&gt;&#xA;&lt;p&gt;Using tools like Hugo, you can generate a full website in seconds and deploy it with minimal effort. Whether you&amp;rsquo;re a developer or a content creator, static sites offer a simple yet powerful way to share your work online.&lt;/p&gt;</description>
-    </item>
-    <item>
       <title>Creating Your First Hugo Page</title>
       <link>http://localhost:1313/docs/getting-started/</link>
       <pubDate>Mon, 10 Feb 2025 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/docs/getting-started/</guid>
       <description>&lt;h2 id=&#34;introduction&#34;&gt;Introduction&lt;/h2&gt;&#xA;&lt;p&gt;Hugo is a fast and flexible static site generator that makes it easy to create and manage content. In this guide, you&amp;rsquo;ll learn how to create your first page in a Hugo project.&lt;/p&gt;&#xA;&lt;h2 id=&#34;prerequisites&#34;&gt;Prerequisites&lt;/h2&gt;&#xA;&lt;p&gt;Before you start, make sure you have created a new Hugo site (&lt;code&gt;hugo new site my-site&lt;/code&gt;).&lt;/p&gt;&#xA;&lt;h2 id=&#34;step-1-create-a-new-page&#34;&gt;Step 1: Create a New Page&lt;/h2&gt;&#xA;&lt;p&gt;To create a new page, use the following command inside your Hugo site directory:&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Another blog post</title>
+      <link>http://localhost:1313/posts/post-3/</link>
+      <pubDate>Mon, 10 Feb 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/post-3/</guid>
+      <description>&lt;h2 id=&#34;why-hugo-sites-matter&#34;&gt;Why Hugo sites matter?&lt;/h2&gt;&#xA;&lt;p&gt;Static sites are fast, secure, and easy to maintain, making them a great choice for blogs, documentation, and personal websites. Unlike dynamic sites, they don’t rely on databases, which improves performance and security.&lt;/p&gt;&#xA;&lt;p&gt;Using tools like Hugo, you can generate a full website in seconds and deploy it with minimal effort. Whether you&amp;rsquo;re a developer or a content creator, static sites offer a simple yet powerful way to share your work online.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Getting Started with Hugo</title>

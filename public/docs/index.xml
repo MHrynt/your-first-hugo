@@ -15,5 +15,40 @@
       <guid>http://localhost:1313/docs/getting-started/</guid>
       <description>&lt;h2 id=&#34;introduction&#34;&gt;Introduction&lt;/h2&gt;&#xA;&lt;p&gt;Hugo is a fast and flexible static site generator that makes it easy to create and manage content. In this guide, you&amp;rsquo;ll learn how to create your first page in a Hugo project.&lt;/p&gt;&#xA;&lt;h2 id=&#34;prerequisites&#34;&gt;Prerequisites&lt;/h2&gt;&#xA;&lt;p&gt;Before you start, make sure you have created a new Hugo site (&lt;code&gt;hugo new site my-site&lt;/code&gt;).&lt;/p&gt;&#xA;&lt;h2 id=&#34;step-1-create-a-new-page&#34;&gt;Step 1: Create a New Page&lt;/h2&gt;&#xA;&lt;p&gt;To create a new page, use the following command inside your Hugo site directory:&lt;/p&gt;</description>
     </item>
+    <item>
+      <title>Images</title>
+      <link>http://localhost:1313/docs/formatting/images/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/docs/formatting/images/</guid>
+      <description>&lt;h1 id=&#34;images&#34;&gt;Images&lt;/h1&gt;&#xA;&lt;p&gt;This page shows how images will look like in your documentation.&lt;/p&gt;&#xA;&lt;p&gt;Suspendisse varius elit quis diam lobortis, eget malesuada elit finibus. Praesent eget arcu feugiat, aliquam augue id, scelerisque risus. Nam in turpis non erat gravida rutrum. Aenean a urna ac dui aliquam gravida vitae vel purus. Sed commodo sapien a tellus feugiat iaculis. Donec molestie est a sollicitudin dignissim. Aenean a urna ac dui aliquam gravida vitae vel purus.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Tables</title>
+      <link>http://localhost:1313/docs/formatting/tables/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/docs/formatting/tables/</guid>
+      <description>&lt;h1 id=&#34;tables&#34;&gt;Tables&lt;/h1&gt;&#xA;&lt;p&gt;This page shows how tables will look like in your documentation.&lt;/p&gt;&#xA;&lt;p&gt;Vivamus dignissim libero vel sem maximus, et iaculis turpis euismod. Maecenas auctor tellus vel lobortis sagittis. Etiam efficitur nunc id bibendum lobortis. Aenean non sapien iaculis, euismod lectus nec, venenatis augue. Cras nunc enim, venenatis et ligula ac, efficitur sagittis ligula. Suspendisse ante felis, scelerisque nec posuere non, suscipit ut ligula. In fermentum urna vitae ultricies iaculis. Maecenas luctus neque libero, vitae aliquam ex feugiat a.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Code blocks</title>
+      <link>http://localhost:1313/docs/formatting/code-blocks/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/docs/formatting/code-blocks/</guid>
+      <description>&lt;h1 id=&#34;code-blocks&#34;&gt;Code blocks&lt;/h1&gt;&#xA;&lt;p&gt;This page shows how code blocks will look like in your documentation.&lt;/p&gt;&#xA;&lt;p&gt;Markdown code blocks are supported with Syntax highlighting.&lt;/p&gt;&#xA;&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; style=&#34;color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;&#34;&gt;&lt;code class=&#34;language-md&#34; data-lang=&#34;md&#34;&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;```jsx title=&amp;#34;src/components/HelloDocusaurus.js&amp;#34;&#xA;&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;function HelloDocusaurus() {&#xA;&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;  return &amp;lt;&lt;span style=&#34;color:#f92672&#34;&gt;h1&lt;/span&gt;&amp;gt;Hello, Docusaurus!&amp;lt;/&lt;span style=&#34;color:#f92672&#34;&gt;h1&lt;/span&gt;&amp;gt;;&#xA;&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;}&#xA;&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;```&#xA;&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; style=&#34;color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;&#34;&gt;&lt;code class=&#34;language-jsx&#34; data-lang=&#34;jsx&#34;&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;&lt;span style=&#34;color:#66d9ef&#34;&gt;function&lt;/span&gt; &lt;span style=&#34;color:#a6e22e&#34;&gt;HelloDocusaurus&lt;/span&gt;() {&#xA;&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;  &lt;span style=&#34;color:#66d9ef&#34;&gt;return&lt;/span&gt; &amp;lt;&lt;span style=&#34;color:#f92672&#34;&gt;h1&lt;/span&gt;&amp;gt;&lt;span style=&#34;color:#a6e22e&#34;&gt;Hello&lt;/span&gt;, &lt;span style=&#34;color:#a6e22e&#34;&gt;Docusaurus&lt;/span&gt;&lt;span style=&#34;color:#f92672&#34;&gt;!&lt;/span&gt;&amp;lt;/&lt;span style=&#34;color:#f92672&#34;&gt;h1&lt;/span&gt;&amp;gt;;&#xA;&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;}&#xA;&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;</description>
+    </item>
+    <item>
+      <title>Admonitions</title>
+      <link>http://localhost:1313/docs/formatting/admonitions/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/docs/formatting/admonitions/</guid>
+      <description>&lt;h1 id=&#34;admonitions-notes&#34;&gt;Admonitions (notes)&lt;/h1&gt;&#xA;&lt;p&gt;This page shows the types of admonitions that can be used in your project. Stick to &lt;strong&gt;2-3 admonition types&lt;/strong&gt; per project and use them &lt;strong&gt;sparingly&lt;/strong&gt;.&#xA;For every type of admonition, you can use Markdown formatting inside (such as bold, italics, code formatting, and links) as shown below.&lt;/p&gt;&#xA;&lt;h2 id=&#34;notes&#34;&gt;Notes&lt;/h2&gt;&#xA;&lt;p&gt;:::note[Custom title]&lt;/p&gt;&#xA;&lt;p&gt;Some &lt;strong&gt;content&lt;/strong&gt; with &lt;em&gt;Markdown&lt;/em&gt; &lt;code&gt;syntax&lt;/code&gt;. Etiam in felis quis magna feugiat consequat. Phasellus in velit urna. Nam eget eros augue. Morbi vitae arcu ex. Nunc nec nulla sodales, rutrum est id, lacinia justo. Vivamus at varius metus, pellentesque interdum dolor.&#xA;:::&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Frequently Asked Questions</title>
+      <link>http://localhost:1313/docs/faq/</link>
+      <pubDate>Mon, 10 Feb 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/docs/faq/</guid>
+      <description>&lt;h2 id=&#34;frequently-asked-questions&#34;&gt;Frequently Asked Questions&lt;/h2&gt;&#xA;&lt;h3 id=&#34;1-what-is-hugo&#34;&gt;1. What is Hugo?&lt;/h3&gt;&#xA;&lt;p&gt;Hugo is a fast and flexible static site generator that allows you to create websites quickly using Markdown and templates. It is great for blogs, documentation sites, and portfolios.&lt;/p&gt;&#xA;&lt;h3 id=&#34;2-how-do-i-install-hugo&#34;&gt;2. How do I install Hugo?&lt;/h3&gt;&#xA;&lt;p&gt;You can install Hugo by following the official &lt;a href=&#34;https://gohugo.io/getting-started/installing/&#34;&gt;installation guide&lt;/a&gt;. For most users, installing via Homebrew (Mac) or Chocolatey (Windows) is the easiest method.&lt;/p&gt;&#xA;&lt;h3 id=&#34;3-how-do-i-create-a-new-hugo-site&#34;&gt;3. How do I create a new Hugo site?&lt;/h3&gt;&#xA;&lt;p&gt;Run the following command in your terminal:&lt;/p&gt;</description>
+    </item>
   </channel>
 </rss>

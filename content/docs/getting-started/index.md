@@ -3,6 +3,7 @@ title: "Creating Your First Hugo Page"
 date: 2025-02-10
 author: "Maria Hryntus"
 tags: ["Hugo", "Static Sites", "Getting Started"]
+weight: 1 
 ---
 
 ## Introduction  
