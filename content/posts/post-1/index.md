@@ -1,5 +1,5 @@
 ---
-title: First Hugo blog post
+title: Sample blog post
 weight: 1
 ---
 

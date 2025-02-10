@@ -1,8 +1,9 @@
 ---
-title: About our sample Hugo site
+title: Home
 weight: 1
 ---
 
+# About our sample Hugo site 
 This site has been created as part of a docs-as-code training. Using Hugo, an open-source static site generator, this training highlights how Technical Writers can collaborate seamlessly to build, manage, and publish documentation in a code-driven environment.
 
 ### Purpose of This Site:

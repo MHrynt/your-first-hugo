@@ -9,14 +9,14 @@
     <lastBuildDate>Mon, 10 Feb 2025 00:00:00 +0000</lastBuildDate>
     <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>About our sample Hugo site</title>
+      <title>Home</title>
       <link>http://localhost:1313/about/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/about/</guid>
-      <description>&lt;p&gt;This site has been created as part of a docs-as-code training. Using Hugo, an open-source static site generator, this training highlights how Technical Writers can collaborate seamlessly to build, manage, and publish documentation in a code-driven environment.&lt;/p&gt;&#xA;&lt;h3 id=&#34;purpose-of-this-site&#34;&gt;Purpose of This Site:&lt;/h3&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Serve as a learning resource for individuals exploring docs-as-code methodologies.&lt;/li&gt;&#xA;&lt;li&gt;Showcase best practices in content organization, version control, and publishing using Hugo.&lt;/li&gt;&#xA;&lt;li&gt;Provide a sandbox environment to experiment with Hugo&amp;rsquo;s features, Markdown syntax, and CI/CD workflows.&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;&lt;strong&gt;Thank you for visiting! We hope this site inspires you to embrace docs-as-code and explore the many possibilities it offers.&lt;/strong&gt;&lt;/p&gt;</description>
+      <description>&lt;h1 id=&#34;about-our-sample-hugo-site&#34;&gt;About our sample Hugo site&lt;/h1&gt;&#xA;&lt;p&gt;This site has been created as part of a docs-as-code training. Using Hugo, an open-source static site generator, this training highlights how Technical Writers can collaborate seamlessly to build, manage, and publish documentation in a code-driven environment.&lt;/p&gt;&#xA;&lt;h3 id=&#34;purpose-of-this-site&#34;&gt;Purpose of This Site:&lt;/h3&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Serve as a learning resource for individuals exploring docs-as-code methodologies.&lt;/li&gt;&#xA;&lt;li&gt;Showcase best practices in content organization, version control, and publishing using Hugo.&lt;/li&gt;&#xA;&lt;li&gt;Provide a sandbox environment to experiment with Hugo&amp;rsquo;s features, Markdown syntax, and CI/CD workflows.&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;&lt;strong&gt;Thank you for visiting! We hope this site inspires you to embrace docs-as-code and explore the many possibilities it offers.&lt;/strong&gt;&lt;/p&gt;</description>
     </item>
     <item>
-      <title>First Hugo blog post</title>
+      <title>Sample blog post</title>
       <link>http://localhost:1313/posts/post-1/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/posts/post-1/</guid>
